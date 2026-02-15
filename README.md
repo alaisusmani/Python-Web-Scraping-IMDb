@@ -18,8 +18,7 @@ A Python automation tool that scrapes real-time data from IMDb to identify the t
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/alaisusmani/Python-Web-Scraping-IMDb.git](https://github.com/alaisusmani/Python-Web-Scraping-IMDb.git)
-    cd Python-Web-Scraping-IMDb
+    git clone https://github.com/alaisusmani/Python-Web-Scraping-IMDb.git
     ```
 
 2.  **Install Dependencies**
