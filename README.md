@@ -1,2 +1,2 @@
 # Python-Web-Scraping-IMBD
-Used BeautifulSoup library to extract information from HTML and find top 10 anime trending. 
+Python automation script that scrapes IMDb to fetch real-time data on the top 10 trending anime. Features include custom User-Agent headers, error handling, and HTML parsing with BeautifulSoup 
